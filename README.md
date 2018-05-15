@@ -1,4 +1,4 @@
 # ICEE-PDRP 2019 Mail Management
-- 1,00,000 Emails Collection
+- Collect Emails 1L+
 - Test Email address is valid or not? [Click Here](https://www.emaillistverify.com/)
-- Send HTML format mail to collected emails
+- Send invitation mail of HTML format to collected emails
